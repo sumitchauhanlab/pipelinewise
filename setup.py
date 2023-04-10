@@ -47,7 +47,7 @@ setup(name='pipelinewise',
           'test': [
               'pre-commit==2.18.1',
               'flake8==4.0.1',
-              'pytest==7.1.1',
+              'pytest==7.3.0',
               'pytest-dependency==0.4.0',
               'pytest-cov==3.0.0',
               'python-dotenv==0.19.1',
